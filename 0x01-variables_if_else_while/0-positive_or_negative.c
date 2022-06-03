@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
  * main - assign a random number to int n everytime.
  * it executes and prints
  * Return: always 0
@@ -21,5 +21,3 @@ int main(void)
 		printf("%d is negative\n", n);
 	return (0);
 }
-
-	
