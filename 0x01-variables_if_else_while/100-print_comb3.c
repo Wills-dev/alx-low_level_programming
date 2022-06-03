@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - a program that prints all possible different combinations of two digits
- * followed by a comma separating each digits
+ * main - a program that prints all possible different
  * Return: 0 successfully
  */
 int main(void)
@@ -25,6 +24,6 @@ int main(void)
 			}
 		}
 	}
-	putchar(' ');
-	Return (0);
+	putchar('\n');
+	return (0);
 }
