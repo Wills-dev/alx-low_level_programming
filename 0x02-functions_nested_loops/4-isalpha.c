@@ -13,7 +13,7 @@ int _isalpha(int c)
 	{
 		for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 		{
-			if (c == lower_case || C == upper_case)
+			if (c == lower_case || c == upper_case)
 			{
 				return (1);
 			}
