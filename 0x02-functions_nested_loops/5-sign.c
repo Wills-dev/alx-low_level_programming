@@ -18,7 +18,7 @@ int print_sign(int n)
 	}
 	else if (n == 0)
 	{
-		value = 1;
+		value = 0;
 		_putchar('0');
 	}
 	else if (n < 0)
