@@ -1,1 +1,1 @@
-started learning C lanuage
+functions, nested loops and how to use them
