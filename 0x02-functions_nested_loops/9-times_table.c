@@ -13,31 +13,27 @@ void times_table(void)
 		for (j = 0; j <= 9; j++)
 		{
 			multiply = i * j;
-			if ((multiply / 10) == 0)
+			if (j == 0)
 			{
-				if (j != 0)
-				{
-					_putchar(' ');
-				}
-				_putchar(multiply + '0');
-				else if (j == 9)
-				{
-					continue;
-				}
-				_putchar(',');
-				_putchar(' ');
+				_putchar(p + '0');
 			}
 			else
 			{
-				_putchar((n / 10) + '0');
-				_putchar((n % 10) + '0');
-				if (j == 9)
+				if (multiply < 10)
 				{
-					continue;
+					_putchar(',');
+					_putchar(32);
+					_putchar(32);
+					_putchar(p + '0');
 				}
-				_putchar(',');
-				_putchar(' ');
-			}
+				else
+				{
+					_putchar(',');
+					_putchar(32);
+					_putchar((p / 10) + '0');
+					_putchar((p % 10) + '0';
+				}
+			};
 		}
 		_putchar('\n');
 	}
