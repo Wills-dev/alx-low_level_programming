@@ -15,7 +15,7 @@ void times_table(void)
 			multiply = i * j;
 			if (j == 0)
 			{
-				_putchar(p + '0');
+				_putchar(multiply + '0');
 			}
 			else
 			{
@@ -24,14 +24,14 @@ void times_table(void)
 					_putchar(',');
 					_putchar(32);
 					_putchar(32);
-					_putchar(p + '0');
+					_putchar(multiply + '0');
 				}
 				else
 				{
 					_putchar(',');
 					_putchar(32);
-					_putchar((p / 10) + '0');
-					_putchar((p % 10) + '0';
+					_putchar((multiply / 10) + '0');
+					_putchar((multiply % 10) + '0';
 				}
 			};
 		}
