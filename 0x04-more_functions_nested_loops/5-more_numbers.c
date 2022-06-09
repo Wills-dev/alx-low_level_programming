@@ -6,7 +6,7 @@
  */
 void more_numbers(void)
 {
-	char n;
+	int n;
 	char m;
 
 	for (n = 0;  n < 10; n++)
