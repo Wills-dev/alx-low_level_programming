@@ -1,9 +1,10 @@
+#include "main.h"
 #include <stdio.h>
 
 /**
  * main - prints number 1 - 10
- * if number % 3 divide 0 prints fizz
- * if number % 5 divide 0 prints buzz
+ * and number % 3 divide 0 prints fizz
+ * and number % 5 divide 0 prints buzz
  * Return: 0
  */
 int main(void)
