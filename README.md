@@ -1,1 +1,1 @@
-functions, nested loops and how to use them
+Each directory consist of different task carried out on C programming language.
