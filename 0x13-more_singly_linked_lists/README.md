@@ -25,3 +25,19 @@ Filename: 	Description
 5-free_listint2.c:  	Frees a listint_t list
 
 6-pop_listint.c:  	Deletes the head node of a listint_t linked list and return the head node's data (n)
+
+7-get_nodeint.c:  	Returns the nth node of a listint_t linked list
+
+8-sum_listint.c:  	Returns the sum of all the data (n) of a listint_t linked list
+
+9-insert_nodeint.c:  	Inserts a new node at a given position
+
+10-delete_nodeint.c:  	Delete the node at index of a listint_t linked list
+
+100-reverse_listint.c:  	Reverses a listint_t linked list
+
+101-print_listint_safe.c:    	Prints a listint_t linked list
+
+102-free_listint_safe.c:   	Frees a listint_t list
+
+103-find_loop.c:  	Finds the loop in a linked list
