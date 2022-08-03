@@ -1,5 +1,5 @@
 # Introduction to C
-This Project was done during Full Stack Software Engineering studies at ALX school. The aim of this is to learn about how to include header files and macros in C language.
+This Project was done during Full Stack Software Engineer studies at ALX school. The aim of this first task is to help understand the the concept and origin of the C language.
 
 ## Technologies
 * Cfiles are complied using gcc 4.8.4
