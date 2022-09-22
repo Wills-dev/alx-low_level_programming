@@ -9,7 +9,7 @@
 All of the following files are programs written in C:
 
 |Filename|	Description|
-|:---------|:--------_:|
+|:---------|:---------:|
 |0-hash_table_create.c|	Function that creates a hash table|
 |1-djb2.c	|Function that executes the djb2 algorithm|
 |2-key_index.c|	Function that returns the index of a key|
