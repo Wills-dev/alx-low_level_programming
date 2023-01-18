@@ -5,7 +5,7 @@ This Project was done during Full Stack Software Engineering studies at ALX scho
 ## Technologies
 * C files are complied using `gcc 4.8.4`
 * C files are written according to C90 standard
-* tested on Ubuntu 14.04 LTS
+* tested on Ubuntu 20.04 LTS
 
 ## Files
 
